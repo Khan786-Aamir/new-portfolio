@@ -36,7 +36,7 @@ export default function Skills() {
     {
       category: "Languages",
       emoji: "💬",
-      color: "bg-violet-300 dark:bg-violet-400",
+      color: "bg-emerald-300 dark:bg-emerald-400",
       span: "md:col-span-7",
       tools: [
         { name: "Java", icon: <FaJava className="text-orange-500" /> },
@@ -64,7 +64,7 @@ export default function Skills() {
     {
       category: "Backend",
       emoji: "⚙️",
-      color: "bg-emerald-300 dark:bg-emerald-400",
+      color: "bg-cyan-300 dark:bg-cyan-400",
       span: "md:col-span-5",
       tools: [
         { name: "Node.js", icon: <FaNodeJs className="text-emerald-500" /> },
@@ -80,7 +80,7 @@ export default function Skills() {
     {
       category: "Databases",
       emoji: "🗄️",
-      color: "bg-pink-300 dark:bg-pink-400",
+      color: "bg-emerald-300 dark:bg-emerald-400",
       span: "md:col-span-7",
       tools: [
         { name: "MongoDB", icon: <SiMongodb className="text-emerald-500" /> },
@@ -93,7 +93,7 @@ export default function Skills() {
     {
       category: "Tools & Platforms",
       emoji: "🛠️",
-      color: "bg-amber-300 dark:bg-amber-400",
+      color: "bg-emerald-300 dark:bg-emerald-400",
       span: "md:col-span-7",
       tools: [
         { name: "Git", icon: <FaGitAlt className="text-orange-600" /> },
@@ -108,7 +108,7 @@ export default function Skills() {
     {
       category: "Core Concepts",
       emoji: "🧠",
-      color: "bg-orange-300 dark:bg-orange-400",
+      color: "bg-cyan-300 dark:bg-cyan-400",
       span: "md:col-span-5",
       tools: [
         {
